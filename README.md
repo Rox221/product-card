@@ -1,1 +1,1 @@
-https://github.com/Rox221/productCard.git
+https://Rox221.github.io/productCard/
